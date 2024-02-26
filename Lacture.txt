@@ -1,0 +1,31 @@
+node init  ======> node project bnany ky lia manual deatils ky lia
+node init -y ======> khud hi default deatils ku sth node ka projet bna dyta hy
+npm i express ======>node ak enviornment hy r 	us ky upr express ki application bnain gy
+server my realtime enviornment bnany ky lia ak pkg use krty jis ki command hy 
+nom i --g nodemon
+type of param : 
+Query param (key value hota hy is ny jysy for example is ky url ky end pr id ho gi)
+Search param
+post man ki web site use  krty hain api testing ky lia
+frontend sy data jata hy (body=>raw=>json)
+body-parser use krty hain body read krwany ky lia
+request my client ka data ata hy 
+repond sy data bhjty hain 
+=============DB======================= (SQL === support query language )
+types of DB
+SQL: table format my svae hota hy (roe ans column) (antities)(Qureies bnti hain puri )(RDBMS hoty hain always)
+NO SQL : json format sy save hota hy (is faster than SQL)(JSON light weight hota hy )(RDBMS support krty hain y bhi)
+Vector : (Binory Language use krta hy y AI wly y use krty hain)
+RDBMS(Relation data base managment sysytem)(multiple collections ko apas my relation krwa dyta hy)
+DBMS (data base managment sysytem)
+
+Hot DBs in Market: SQL DB(ab update ho gya hy postgras ko),NO Sql My MongoDB,(Ai  based hoty hain Vector DB)
+types of SQL:
+Types of No SQl:
+=============Mongo DB======================= 
+Format :
+Type :
+IP Address WHite List Kr Diya 0.0.0.0/0
+Manually ID add kr skty hain
+URI
+mongoose pkg 03462528569
