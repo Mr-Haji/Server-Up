@@ -1,3 +1,19 @@
+----------------------Backend---------------------------
+Topics : // CRUD
+// LOGIN / SIGNUP
+// middleware
+// JWT Token
+// Private or public routes
+// Image Handle ==> cloundinary
+//OTP send => Email / sms
+//cookies
+// Complete Web app
+
+
+
+
+--------------------Start-----------------------------
+
 node init  ======> node project bnany ky lia manual deatils ky lia
 node init -y ======> khud hi default deatils ku sth node ka projet bna dyta hy
 npm i express ======>node ak enviornment hy r 	us ky upr express ki application bnain gy
@@ -29,3 +45,8 @@ IP Address WHite List Kr Diya 0.0.0.0/0
 Manually ID add kr skty hain
 URI
 mongoose pkg 03462528569
+
+
+
+
+
