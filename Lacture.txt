@@ -29,6 +29,8 @@ request my client ka data ata hy
 repond sy data bhjty hain 
 =============DB======================= (SQL === support query language )
 types of DB
+schema : blueprint of data SQL my define hota hy 
+schemaless : Noq Sql ko schema bna skty hain but firebass or mongoDB schema less hain 
 SQL: table format my svae hota hy (roe ans column) (antities)(Qureies bnti hain puri )(RDBMS hoty hain always)
 NO SQL : json format sy save hota hy (is faster than SQL)(JSON light weight hota hy )(RDBMS support krty hain y bhi)
 Vector : (Binory Language use krta hy y AI wly y use krty hain)
